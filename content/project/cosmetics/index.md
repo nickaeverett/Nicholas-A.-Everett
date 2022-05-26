@@ -6,6 +6,6 @@ summary: Write about your project here...
 tags: []
 external_link: ""
 image:
-  filename: opioid-pills.jpg
+  filename: featured.jpg
 ---
 Treating the emotional symptoms of oxycodone withdrawal
