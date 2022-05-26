@@ -38,7 +38,7 @@ experience:
     company_logo: org-x
     location: Australia
     date_start: '2018-01-01'
-    date_end: '2019-04-31'
+    date_end: '2019-10-10'
     description: |2-
         * Laboratory of Prof Iain McGregor and A/Prof Michael Bowen
 
@@ -48,7 +48,7 @@ experience:
     company_logo: org-x
     location: Australia
     date_start: '2019-01-01'
-    date_end: '2019-02-31'
+    date_end: '2019-02-10'
     description: |2-
         * Laboratory of Dr Asheeta Prasad
 
