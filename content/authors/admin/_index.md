@@ -13,11 +13,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/NeuroNick_
+    display:
+      header: true
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Nicholas-Everett?ev=hdr_xprf
+    display:
+      header: true
   - display:
-      header: false
+      header: true
     link: https://scholar.google.com.au/citations?user=0YMPyM4AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
