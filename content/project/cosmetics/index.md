@@ -1,8 +1,10 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
-tags:
-  - NLP
+title: Opioid addiction
+subtitle: Treating the emotional symptoms of oxycodone withdrawal
 date: 2022-01-01
-external_link: http://github.com
+summary: Write about your project here...
+tags: []
+external_link: ""
+image:
+  filename: opioid-pills.jpg
 ---
