@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2021-05-01'
-    description: ''
+    description: 'PhD'
     organization: Macquarie University
     title: 'Vice-Chancellor's Commendation for Research Excellence (PhD)'
 
