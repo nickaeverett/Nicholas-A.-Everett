@@ -30,7 +30,7 @@ experience:
     date_start: '2019-05-01'
     date_end: ''
     description: 
-    *  Laboratory of A/Prof Michael Bowen 
+        * Laboratory of A/Prof Michael Bowen 
 
   - title: Research Assistant
     company: The University of Sydney
@@ -40,7 +40,7 @@ experience:
     date_start: '2018-01-01'
     date_end: '2019-04-31'
     description:
-    *  Laboratory of Prof Iain McGregor and A/Prof Michael Bowen
+        * Laboratory of Prof Iain McGregor and A/Prof Michael Bowen
 
   - title: Research Assistant
     company: The University of New South Wales
@@ -50,7 +50,7 @@ experience:
     date_start: '2019-01-01'
     date_end: '2019-02-31'
     description:
-    *  Laboratory of Dr Asheeta Prasad
+        * Laboratory of Dr Asheeta Prasad
 
 
 
