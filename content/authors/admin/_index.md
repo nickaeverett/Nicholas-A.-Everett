@@ -1,7 +1,7 @@
 ---
 title: Nicholas A. Everett
 role: PhD // Post-doctoral Research Fellow
-avatar_filename: nick-photo-headshot.jpg
+avatar_filename: avatar.jpg
 bio: Neuropsychopharmacologist researcher at The University of Sydney.
 superuser: true
 status:
