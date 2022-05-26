@@ -24,36 +24,36 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-  - certificate_url: 
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-05-01'
     description: ''
     organization: Macquarie University
-    organization_url: 
+    organization_url: ''
     title: 'Vice-Chancellor's Commendation for Research Excellence (PhD)'
     url: ''
-  - certificate_url: 
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-05-01'
     description: ''
     organization: Biological Psychiatry Australia
-    organization_url: 
+    organization_url: ''
     title: 'Best Publication (PhD)'
     url: ''
-  - certificate_url: 
+  - certificate_url: ''
     date_end: ''
     date_start: '2020-05-01'
     description: ''
     organization: Biological Psychiatry Australia
-    organization_url: 
+    organization_url: ''
     title: 'Best Abstract (PhD)'
     url: ''
-  - certificate_url: 
+  - certificate_url: ''
     date_end: ''
     date_start: '2022-03-01'
     description: ''
     organization: Macquarie University
-    organization_url: 
+    organization_url: ''
     title: 'Doris McIlwain Prize for Research Excellence'
     url: ''
 
