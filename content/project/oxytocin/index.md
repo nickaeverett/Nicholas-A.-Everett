@@ -5,6 +5,8 @@ summary: Social behaviour, substance use disorders, stress, neurobiology, and
   therapeutic use.
 draft: false
 featured: false
+tags:
+  - Oxytocin
 image:
   filename: featured.jpg
   focal_point: Smart
