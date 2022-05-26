@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - date_start: '2021-05-01'
     description: 'PhD'
-    organization: Macquarie University
+    organization: 'Macquarie University'
     title: 'Vice-Chancellor's Commendation for Research Excellence (PhD)'
 
 design:
