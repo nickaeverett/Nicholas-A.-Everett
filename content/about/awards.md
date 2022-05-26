@@ -48,8 +48,7 @@ item:
     date_start: '2021-05-19'
     organization: Macquarie University
     title: 'Excellence in Higher Degree Research (University)'
-  - certificate_url: https://students.mq.edu.au/__data/assets/pdf_file/0007/1171744/May-2021.pdf
-    date_start: '2021-03-23'
+  - date_start: '2021-03-23'
     organization: Macquarie University
     title: 'Doris McIlwain Prize for HDR Excellence'
 
