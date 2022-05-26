@@ -1,5 +1,5 @@
 ---
-title: Advanced neuroscience and behavioural methods
+title: Advanced neuroscience methods
 subtitle: ""
 date: 2022-01-01
 summary: Write about your project here...
