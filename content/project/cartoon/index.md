@@ -7,5 +7,5 @@ tags: []
 external_link: ""
 links: []
 image:
-  filename: featured_3.png
+  filename: featured.png
 ---
