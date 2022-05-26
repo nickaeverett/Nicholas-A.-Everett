@@ -29,7 +29,7 @@ experience:
     location: Australia
     date_start: '2019-05-01'
     date_end: ''
-    description: 
+    description: |2-
         * Laboratory of A/Prof Michael Bowen 
 
   - title: Research Assistant
@@ -39,7 +39,7 @@ experience:
     location: Australia
     date_start: '2018-01-01'
     date_end: '2019-04-31'
-    description:
+    description: |2-
         * Laboratory of Prof Iain McGregor and A/Prof Michael Bowen
 
   - title: Research Assistant
@@ -49,7 +49,7 @@ experience:
     location: Australia
     date_start: '2019-01-01'
     date_end: '2019-02-31'
-    description:
+    description: |2-
         * Laboratory of Dr Asheeta Prasad
 
 
