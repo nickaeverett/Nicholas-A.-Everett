@@ -1,7 +1,10 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: Icon
+widget_id: Icon
 headless: true
+weight: 10
+design:
+  background:
+    image: icon.png
 ---
