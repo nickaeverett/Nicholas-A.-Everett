@@ -23,26 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.mq.edu.au/thisweek/2019/08/26/finalists-announced-2019-academic-staff-awards/#.Yo86X6hBxHU
+  - certificate_url: https://twitter.com/biolpsychaust/status/1453217856364204041
+    date_start: '2021-10-27'
+    organization: Biological Psychiatry Australia
+    title: 'Best PhD Paper'
+  - certificate_url: http://www.biolpsychaustralia.com.au/wp-content/uploads/2019/10/BPA-2019-FULL-program.pdf
+    date_start: '2019-10-27'
+    organization: Biological Psychiatry Australia
+    title: 'Best PhD Abstract'    
+  - certificate_url: https://www.mq.edu.au/thisweek/2019/08/26/finalists-announced-2019-academic-staff-awards/#.Yo87q6hBxHU
     date_start: '2019-08-26'
     organization: Macquarie University
-    title: 'Excellence in Higher Degree Research'
+    title: 'Excellence in Higher Degree Research (Faculty)'
+  - certificate_url: https://students.mq.edu.au/__data/assets/pdf_file/0007/1171744/May-2021.pdf
+    date_start: '2021-05-19'
+    organization: Macquarie University
+    title: 'Excellence in Higher Degree Research (University)'
+  - certificate_url: https://students.mq.edu.au/__data/assets/pdf_file/0007/1171744/May-2021.pdf
+    date_start: '2021-05-19'
+    organization: Macquarie University
+    title: 'Excellence in Higher Degree Research (University)'
+
+
 
 design:
   columns: '1'
