@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2019-01-01'
+    organization: American Physiological Society
+    title: 'Travel Award to present PhD research'
+  - date_start: '2019-01-01'
+    organization: International Behavioral Neuroscience Society
+    title: 'Travel Award to present PhD research'
+  - date_start: '2019-01-01'
+    organization: British Society for Neuroendocrinology
+    title: 'Travel Award to present PhD research'
   - certificate_url: https://twitter.com/biolpsychaust/status/1453217856364204041
     date_start: '2021-10-27'
     organization: Biological Psychiatry Australia
@@ -40,10 +49,9 @@ item:
     organization: Macquarie University
     title: 'Excellence in Higher Degree Research (University)'
   - certificate_url: https://students.mq.edu.au/__data/assets/pdf_file/0007/1171744/May-2021.pdf
-    date_start: '2021-05-19'
+    date_start: '2021-03-23'
     organization: Macquarie University
-    title: 'Excellence in Higher Degree Research (University)'
-
+    title: 'Doris McIlwain Prize for HDR Excellence'
 
 
 design:
