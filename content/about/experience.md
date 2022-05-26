@@ -25,20 +25,36 @@ experience:
   - title: Post-doctoral Research Fellow
     company: The University of Sydney
     company_url: ''
-    company_logo: org-usyd
+    company_logo: org-x
     location: Australia
     date_start: '2019-05-01'
     date_end: ''
-    description: Laboratory of A/Prof Michael Bowen 
+    description: 
+    *  Laboratory of A/Prof Michael Bowen 
 
-  - title: PhD Candidate
-    company: Macquarie University
+  - title: Research Assistant
+    company: The University of Sydney
     company_url: ''
     company_logo: org-x
     location: Australia
-    date_start: '2016-01-01'
-    date_end: '2020-01-01'
-    description: Laboratory of Prof Jennifer Cornish
+    date_start: '2018-01-01'
+    date_end: '2019-04-31'
+    description:
+    *  Laboratory of Prof Iain McGregor and A/Prof Michael Bowen
+
+  - title: Research Assistant
+    company: The University of New South Wales
+    company_url: ''
+    company_logo: org-x
+    location: Australia
+    date_start: '2019-01-01'
+    date_end: '2019-02-31'
+    description:
+    *  Laboratory of Dr Asheeta Prasad
+
+
+
+
 
 design:
   columns: '1'
