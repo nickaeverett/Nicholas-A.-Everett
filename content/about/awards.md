@@ -39,14 +39,10 @@ item:
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - certificate_url: https://www.mq.edu.au/thisweek/2019/08/26/finalists-announced-2019-academic-staff-awards/#.Yo86X6hBxHU
+    date_start: '2019-08-26'
+    organization: Macquarie University
+    title: 'Excellence in Higher Degree Research'
 
 design:
   columns: '1'
