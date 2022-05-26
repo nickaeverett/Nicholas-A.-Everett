@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Australia
-    date_start: '2016-31-01'
-    date_end: '2020-31-01'
+    date_start: '2016-01-31'
+    date_end: '2020-01-31'
     description: |2-
         * Supervised by Prof Jennifer Cornish
         * Methamphetamine addiction
@@ -39,7 +39,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Australia
-    date_start: '2014-31-01'
+    date_start: '2014-01-31'
     date_end: '2015-10-10'
     description: |2-
         * Supervised by Prof Jennifer Cornish
@@ -51,7 +51,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Australia
-    date_start: '2008-31-01'
+    date_start: '2008-01-31'
     date_end: '2013-10-10'
     description: |2-
 
