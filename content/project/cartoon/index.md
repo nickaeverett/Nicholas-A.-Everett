@@ -1,6 +1,6 @@
 ---
 title: Methamphetamine addiction
-subtitle: Oxytocin as a novel pharmacotherapy, and early life stress
+subtitle: Oxytocin as a novel treatment, and the impacts of early life stress
 date: 2022-01-01
 summary: Write about your project here...
 tags:
