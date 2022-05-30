@@ -1,6 +1,6 @@
 ---
-title: Nicholas A. Everett
-role: PhD // Post-doctoral Research Fellow
+title: Nicholas A. Everett, PhD
+role: Post-doctoral Research Fellow at [The Bowen Lab](https://www.thebowenlab.com/).
 avatar_filename: avatar.jpg
 bio: Neuropsychopharmacologist and Lecturer at The University of Sydney.
 superuser: true
