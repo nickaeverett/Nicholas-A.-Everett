@@ -35,7 +35,7 @@ content:
     - name: Oxytocin
       tag: OT
     - name: Early Life Stress
-      tag: ELS
+      tag: Stress
 design:
   columns: '1'
   view: masonry
