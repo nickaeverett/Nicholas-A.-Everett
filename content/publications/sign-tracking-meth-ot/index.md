@@ -1,5 +1,5 @@
 ---
-title: Sign tracking predicts cue-induced but not drug-primed reinstatement to methamphetamine seeking in rats: Effects of oxytocin treatment
+title: Sign tracking predicts cue-induced but not drug-primed reinstatement to methamphetamine seeking in rats - Effects of oxytocin treatment
 summary: _Journal of Psychopharmacology_
 tags:
   - OT
