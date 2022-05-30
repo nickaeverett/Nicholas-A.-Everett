@@ -1,6 +1,6 @@
 ---
 title: Cannabidiol but not cannabidiolic acid reduces behavioural sensitisation to methamphetamine in rats, at pharmacologically effective doses
-summary: 
+summary: _Psychopharmacology_
 tags:
   - Meth
 date: 2022-04-18
