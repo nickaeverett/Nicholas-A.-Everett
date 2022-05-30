@@ -1,19 +1,12 @@
 ---
-title: Methamphetamine addiction
-summary: Novel therapies for reducing relapse, and the effects of early life trauma.
+title: Oxytocin as an adolescent treatment for meth addiction after early life stress 
+summary: 
 tags:
   - Meth
+  - ELS
+  - OT
 date: 2022-01-01
-external_link: 
+external_link: https://www.nature.com/articles/s41386-022-01336-y
 ---
-The social and economic harm caused by methamphetamine addiction is escalating rapidly in Australia and globally, and there are no approved or effective pharmacotherapies for treating it. 
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-
-My research into methamphetamine addiction has three main goals:
-1. Develop and translate novel and effective pharmacotherapies for methamphetamine addiction to clinical trials. This research currently focusses on novel molecules created through industry partnerships between [Kinoxis Therapeutics](https://kinoxistherapeutics.com/) and [The Bowen Lab](https://thebowenlab.com), which stimulate the brain oxytocin system. This is inspired by research by myself and others showing that the neuropeptide oxytocin can powerfully reduce addiction symptoms in rodent models. 
-
-2. Identify the key brain systems which maintain methamphetamine addiction and drive relapse. I use contemporary neuroscience techniques to discover the role of specific brain pathways in the pathology of methamphetamine addiction, and then screen novel pharmacotherapies for their action on these addiction-driving pathways. 
-
-3. Describe the behavioural and neurobiological consequences of early life trauma on later-life addiction risk, and use this knowledge to identify pharmacotherapies which could rehabilitate the brain after the deleterious effects of early life trauma.
+Early life stress (ELS) is associated with perturbed neural development and augmented vulnerability to mental health disorders, including addiction. How ELS changes the brain to increase addiction risk is poorly understood, and there are no therapies which target this ELS-induced vulnerability. ELS disrupts the oxytocin system, which can modulate addiction susceptibility, suggesting that targeting the oxytocin system may be therapeutic in this ELS-addiction comorbidity. Therefore, we determined whether adolescent oxytocin treatment after ELS could: (1) reduce vulnerability to anxiety, social deficits, and methamphetamine-taking and reinstatement; and (2) restore hypothalamic oxytocin and corticotropin-releasing factor expressing neurons and peripheral oxytocin and corticosterone levels. Long Evans pups underwent maternal separation (MS) for either 15 min or 360 min on postnatal days (PND) 1–21. During adolescence (PNDs 28–42), rats received a daily injection of either oxytocin or saline. In Experiment 1, adult rats were assessed using the elevated plus-maze, social interaction procedure, and methamphetamine self-administration procedure, including extinction, and cue-, methamphetamine- and yohimbine-induced reinstatement. In Experiment 2, plasma for enzyme immunoassays and brain tissue for immunofluorescence were collected from adult rats after acute stress exposure. Adolescent oxytocin treatment ameliorated ELS-induced anxiety and reduced methamphetamine- and yohimbine-induced reinstatement in both sexes, and suppressed methamphetamine intake and facilitated extinction in males only. Additionally, adolescent oxytocin treatment after ELS restored oxytocin-immunoreactive cells and stress-induced oxytocin levels in males, and attenuated stress-induced corticosterone levels in both sexes. Adolescent oxytocin treatment reverses some of the ELS effects on later-life psychopathology and vulnerability to addiction.
 
