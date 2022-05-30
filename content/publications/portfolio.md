@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: ''
-subtitle: ''
+title: 'My peer-reviewed research published in academic journals.'
+subtitle: 'Filter by research topic.'
 
 content:
   # Page type to display. E.g. project.
@@ -37,7 +37,7 @@ content:
     - name: Early Life Stress
       tag: ELS
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
