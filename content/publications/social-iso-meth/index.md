@@ -1,6 +1,6 @@
 ---
 title: The effect of adolescent social isolation on vulnerability for methamphetamine addiction behaviours in female rats
-summary: 
+summary: _Psychopharmacology_
 tags:
   - Meth
   - Stress
