@@ -28,7 +28,7 @@ social:
 ---
 Nick received his PhD in neuropsychopharmacology from Macquarie University with Prof Jennifer Cornish, where he used rat models of methamphetamine addiction to understand the efficacy and neural mechanisms of oxytocin as a novel therapy for reducing craving. 
 
-In the Bowen Lab, Nick uses in vivo neural recording and manipulation techniques (fibre photometry, DREADDs) to identify the neurobiological mechanisms of action of novel pharmacotherapies, including KNX100, and uses newly developed operant models to identify treatments which promote social behaviour over drug taking, including oxytocin-receptor targeting molecules. 
+Now in [The Bowen Lab](https://thebowenlab.com) at The University of Sydney, Nick uses in vivo neural recording and manipulation techniques (fibre photometry, DREADDs) and gold-standard models of addiction to identify the neurobiological mechanisms of action of novel pharmacotherapies for treating substance use disorders. Nick currently researches the oxytocin system as a therapeutic target for treating addictions, and is developing novel molecules which stimulate the brain oxytocin system. 
 
-Nick is also interested in the fundamental neurobiological mechanisms which regulate social motivation and social-decision making, particularly in the context of psychiatric disorders characterised by social dysfunction. 
+Nick is also interested in the fundamental brain mechanisms which regulate social motivation and social-decision making, particularly in the context of psychiatric disorders characterised by social dysfunction. 
 
