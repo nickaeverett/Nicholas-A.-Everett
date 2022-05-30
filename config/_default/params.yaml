@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'The University of Sydney (USYD)'
+    description: 'Addiction neuroscientist and academic researcher.'
+    twitter: 'neuronick_'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,12 +36,12 @@ header:
     show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Nicholas A. Everett. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
