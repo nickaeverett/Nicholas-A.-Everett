@@ -5,7 +5,7 @@ bio: Neuropsychopharmacologist and Lecturer at The University of Sydney
 avatar_filename: avatar.jpg
 superuser: true
 status:
-  icon: ☕️
+  icon: 
 social:
   - icon: envelope
     icon_pack: fas
