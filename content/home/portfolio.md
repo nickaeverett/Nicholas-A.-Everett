@@ -36,7 +36,7 @@ content:
     - name: Methamphetamine Addiction
       tag: Meth
     - name: Opioid addiction
-      tag: Opioid
+      tag: Opioids
     - name: Oxytocin
       tag: OT
     - name: Early Life Stress
