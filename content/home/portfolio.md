@@ -39,7 +39,7 @@ content:
       tag: Opioids
     - name: Oxytocin
       tag: OT
-    - name: Early Life Stress
+    - name: Stress
       tag: Stress
 design:
   columns: '1'
